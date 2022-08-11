@@ -1,5 +1,5 @@
-# Project 4 : Password Validation
-# by Sunil
+# Project 1 : Password Validation
+# by Sachin Modi
 
 import random
 
